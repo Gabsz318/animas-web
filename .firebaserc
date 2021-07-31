@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "animas-web-3b6dc"
+    "default": "animas-app-444d7"
+  },
+  "targets": {
+    "animas-app-444d7": {
+      "hosting": {
+        "web": [
+          "animas-app",
+          "animas-app-444d7"
+        ]
+      }
+    }
   }
 }
