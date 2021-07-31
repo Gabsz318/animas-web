@@ -5,8 +5,7 @@
   "targets": {
     "animas-app-444d7": {
       "hosting": {
-        "web": [
-          "animas-app",
+        "animas-web": [
           "animas-app-444d7"
         ]
       }
