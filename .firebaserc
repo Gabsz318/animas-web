@@ -6,7 +6,7 @@
     "animas-app-444d7": {
       "hosting": {
         "animas-web": [
-          "animas-app-444d7"
+          "animas-app-444d7/animas-web"
         ]
       }
     }
