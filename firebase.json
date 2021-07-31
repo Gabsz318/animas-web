@@ -8,7 +8,7 @@
     },
     "hosting": [{
             "target": "animas-web",
-            "public": "animas-web/dist",
+            "public": "dist",
             "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
             "rewrites": [{
                 "source": "**",
