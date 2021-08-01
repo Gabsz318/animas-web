@@ -5,11 +5,8 @@
   "targets": {
     "animas-app-444d7": {
       "hosting": {
-        "animas-web": [
-          "animas-app-444d7/animas-web"
-        ],
         "web": [
-          "animas-app-444d7-web"
+          "web.balnearioanimasapp.com"
         ]
       }
     }
