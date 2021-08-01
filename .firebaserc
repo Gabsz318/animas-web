@@ -6,7 +6,7 @@
     "animas-app-444d7": {
       "hosting": {
         "web": [
-          "web.balnearioanimasapp.com"
+          "animas-app-444d7-web"
         ]
       }
     }
